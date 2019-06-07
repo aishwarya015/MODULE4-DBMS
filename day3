@@ -33,3 +33,6 @@ INSERT INTO Store VALUES('Loyal World','Infy Campus,Mysore','Rohan Kumar')
 
 ASSIGN-18
 INSERT INTO Bill VALUES(1001,'Loyal World',101,'A1001',1000,'20-NOV-15',2)
+
+ASSIGN-19
+INSERT INTO Supplier VALUES('S501','Avaya Ltd',9012345678,'Mysore')
