@@ -27,3 +27,6 @@ DELETE FROM SaleDetail WHERE QUANTITY>5
 
 COL.ASSIGN-16
 INSERT INTO Article VALUES('A1001','Mouse',500,0,'C')
+
+ASSIGN-17
+INSERT INTO Store VALUES('Loyal World','Infy Campus,Mysore','Rohan Kumar')
