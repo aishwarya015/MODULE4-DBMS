@@ -46,6 +46,9 @@ SELECT QuotationId, SName, ItemCode, QuotedPrice, QDate, QStatus FROM Quotation 
 ASSIGN-22
 SELECT Designation,Salary FROM EmpDetails WHERE DESIGNATION IN ('Manager','Billing Staff')
 
+ASSIGN-23
+SELECT ROId,Location FROM RetailOutlet
+
 ASSIGN-34
 INSERT INTO City VALUES('Mysore')
 
