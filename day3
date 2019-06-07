@@ -18,3 +18,6 @@ UPDATE Product SET PRICE=50 WHERE CATEGORY='Apparel' AND PDESC='Trouser'
 
 EXERC-20
 UPDATE Salesman SET SNAME='Jenny',Location='Bristol' WHERE SID=3
+
+EXERC-21
+DELETE FROM SaleDetail WHERE SaleId=1004 
