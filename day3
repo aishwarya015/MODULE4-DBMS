@@ -1,0 +1,2 @@
+"PRAC where clause"
+SELECT ID, ENAME, DOJ, SALARY, DEPT FROM Employee WHERE ENAME LIKE 'Ja%'
